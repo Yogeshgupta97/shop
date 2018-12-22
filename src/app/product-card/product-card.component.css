@@ -9,3 +9,7 @@
     height: 170px;
     overflow: hidden;
 }
+
+.card-footer button {
+    cursor: pointer;
+}
